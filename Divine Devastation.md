@@ -1,6 +1,6 @@
 # Divine Devastation
 
-![render of Divine Devastation](https://mtg.design/i/iogf50)
+![render of Divine Devastation](https://mtg.design/i/sava41)
 
 [Art](https://www.artstation.com/artwork/WlB5G) by [Andrew Sonea](https://www.artstation.com/andrewsonea)
 
