@@ -2,10 +2,7 @@ I think that [[Tariel, Reckoner of Souls]] doesnt do a great job as a Mardu comm
 Since my SO wants to build her first angel tribal edh deck, here is one.
 
 I would love the card to be tribal focus while not being another "+1/+1 anthem".
-
-We can leverage the fact that most angel have Vigilance and a lot of them have lifelink and/or deathtouch.
 Lets do something with those untapped bird. Lets do something divine, something magnificent.
-Lets give them a reason to tap.
 
 In Dominaria draft, I loved to ping with the [[Sorcerer's Wand]]. It is awesome with Vigilance and lifelink.
 Alright our commander is going to give this kind of power to our angel flock.
@@ -15,4 +12,4 @@ Lets give her some keywords for good angel measure. We are not [[Akroma, Angel o
  
 Lets introduce Esobiel, Voice of Bonfire
 
-![](https://mtg.design/i/llba31)
+![](https://mtg.design/i/llba31.jpg)
