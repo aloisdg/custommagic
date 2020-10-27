@@ -13,3 +13,5 @@ Lets give her some keywords for good angel measure. We are not [[Akroma, Angel o
 Lets introduce Esobiel, Voice of Bonfire
 
 ![](https://mtg.design/i/llba31.jpg)
+
+[art](https://cdnb.artstation.com/p/assets/images/images/002/132/763/large/jason-nguyen-angel-jasonnguyen.jpg?1457681539)
